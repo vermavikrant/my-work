@@ -2,6 +2,7 @@ package heap;
 
 import java.util.Arrays;
 
+
 public class MaxHeapSort {
 
 	private static void heapify(int numIndex, int[] inputList, int inputListLastIndex) {
